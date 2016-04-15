@@ -3,6 +3,8 @@ package com.example.dm.myfirstapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.dmitrymolchanov.myapplication.R;
+
 public class MyActivity extends AppCompatActivity {
 
     @Override

@@ -3,34 +3,52 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
-    android:orientation="horizontal">
+    android:orientation="horizontal"
+    android:background="#b6fbff">
     <LinearLayout
         android:id="@+id/linearLayout1"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_margin="30dp">
+        android:layout_margin="30dp"
+        android:weightSum="1">
         <TextView
             android:layout_width="wrap_content"
-            android:text="TextView"
+            android:text="Никусяшка, поздравляю тебя с Днем Рождения. Желаю тебе всего самого наилучшего, будь няшкой, оставайся такой же милой, желанной и красивой девочкой, люблю тебя :*"
             android:layout_height="wrap_content"
             android:id="@+id/tvOut"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="50dp">
+            android:layout_marginBottom="50dp"
+            android:layout_weight="0.18">
         </TextView>
         <Button
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:id="@+id/btnOk"
-            android:text="OK"
-            android:layout_width="100dp">
+            android:text="Спасибо, Димочка :*"
+            android:layout_width="match_parent"
+            android:background="#253bfc"
+            android:layout_marginBottom="5dp"
+            android:textColor="@android:color/background_light">
         </Button>
         <Button
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:id="@+id/btnCancel"
-            android:text="Cancel"
-            android:layout_width="100dp">
+            android:text="Пшел, нах!"
+            android:layout_width="match_parent"
+            android:background="#253bfc"
+            android:layout_marginBottom="5dp"
+            android:textColor="@android:color/background_light">
         </Button>
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="МмрРрРрфФф &lt;3"
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:background="#253bfc"
+            android:textColor="@android:color/background_light" />
     </LinearLayout>
 </LinearLayout>
