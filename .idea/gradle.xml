@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/p0151contextmenu" />
             <option value="$PROJECT_DIR$/p0161dynamiclayout" />
             <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
           </set>
         </option>
         <option name="myModules">
@@ -40,6 +41,7 @@
             <option value="$PROJECT_DIR$/p0151contextmenu" />
             <option value="$PROJECT_DIR$/p0161dynamiclayout" />
             <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
           </set>
         </option>
       </GradleProjectSettings>
