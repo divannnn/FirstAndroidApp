@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -26,30 +26,21 @@
             <option value="$PROJECT_DIR$/p0191simplecalculator" />
             <option value="$PROJECT_DIR$/p0201simpleanimation" />
             <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0241TwoActivityState" />
+            <option value="$PROJECT_DIR$/p0261IntentFilter" />
+            <option value="$PROJECT_DIR$/p0271GetIntentAction" />
+            <option value="$PROJECT_DIR$/p0281IntentExtras" />
+            <option value="$PROJECT_DIR$/p0291simpleactivityresult" />
+            <option value="$PROJECT_DIR$/p0301activityresult" />
+            <option value="$PROJECT_DIR$/p0311simpleintents" />
+            <option value="$PROJECT_DIR$/p0321simplebrowser" />
+            <option value="$PROJECT_DIR$/p0331SharedPreferences" />
+            <option value="$PROJECT_DIR$/p0341SimpleSQLite" />
+            <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/P0072layoutprop" />
-            <option value="$PROJECT_DIR$/P0081viewbyid" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/p0091onclickbuttons" />
-            <option value="$PROJECT_DIR$/p0101listener" />
-            <option value="$PROJECT_DIR$/p0102activitylistener" />
-            <option value="$PROJECT_DIR$/p0111resvalues" />
-            <option value="$PROJECT_DIR$/p0121logandmess" />
-            <option value="$PROJECT_DIR$/p0131menusimple" />
-            <option value="$PROJECT_DIR$/p0141menuadv" />
-            <option value="$PROJECT_DIR$/p0151contextmenu" />
-            <option value="$PROJECT_DIR$/p0161dynamiclayout" />
-            <option value="$PROJECT_DIR$/p0171dynamiclayout2" />
-            <option value="$PROJECT_DIR$/p0181dynamiclayout3" />
-            <option value="$PROJECT_DIR$/p0191simplecalculator" />
-            <option value="$PROJECT_DIR$/p0201simpleanimation" />
-            <option value="$PROJECT_DIR$/p0211twoactivity" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
